@@ -1,0 +1,1 @@
+Basic digital clock, it shows time in 12h format.
