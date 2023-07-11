@@ -1,2 +1,2 @@
 # DigitalClock
-Simple Digital Clock
+Simple Digital Clock, it shows time in 12h format.
